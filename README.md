@@ -1,5 +1,5 @@
 # Stay_Booker
-**Stay Booker is an online stay booking application based on React and Spring Boot.
+**Stay Booker is an online stay booking application based on React and Spring Boot.**
 * Designed and built a single page web application using React. Bootstrap the development with mature component library AntD
 * Implemented the backend services based on Spring Boot to support stay upload, delete, search and reserve functionality
 * Used MySQL to store user-generated data, e.g. goods information and reservation history, and utilized Google Cloud Storage to store media files for the uploaded stays
